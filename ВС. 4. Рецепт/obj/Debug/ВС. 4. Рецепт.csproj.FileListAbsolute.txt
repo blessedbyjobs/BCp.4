@@ -1,0 +1,10 @@
+C:\Users\alrbk\source\repos\ВС. 4. Рецепт\ВС. 4. Рецепт\bin\Debug\ВС._4.Рецепт.exe.config
+C:\Users\alrbk\source\repos\ВС. 4. Рецепт\ВС. 4. Рецепт\bin\Debug\ВС._4.Рецепт.exe
+C:\Users\alrbk\source\repos\ВС. 4. Рецепт\ВС. 4. Рецепт\bin\Debug\ВС._4.Рецепт.pdb
+C:\Users\alrbk\source\repos\ВС. 4. Рецепт\ВС. 4. Рецепт\obj\Debug\ВС. 4. Рецепт.csprojAssemblyReference.cache
+C:\Users\alrbk\source\repos\ВС. 4. Рецепт\ВС. 4. Рецепт\obj\Debug\ВС._4.Рецепт.Properties.Resources.resources
+C:\Users\alrbk\source\repos\ВС. 4. Рецепт\ВС. 4. Рецепт\obj\Debug\ВС. 4. Рецепт.csproj.GenerateResource.cache
+C:\Users\alrbk\source\repos\ВС. 4. Рецепт\ВС. 4. Рецепт\obj\Debug\ВС. 4. Рецепт.csproj.CoreCompileInputs.cache
+C:\Users\alrbk\source\repos\ВС. 4. Рецепт\ВС. 4. Рецепт\obj\Debug\ВС._4.Рецепт.exe
+C:\Users\alrbk\source\repos\ВС. 4. Рецепт\ВС. 4. Рецепт\obj\Debug\ВС._4.Рецепт.pdb
+C:\Users\alrbk\source\repos\ВС. 4. Рецепт\ВС. 4. Рецепт\obj\Debug\ВС._4.Рецепт.Form1.resources
